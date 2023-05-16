@@ -1,0 +1,3 @@
+/home/farid/programming/cpp/codeliteProjects/first/CMakeFiles/HelloWorld.dir
+/home/farid/programming/cpp/codeliteProjects/first/CMakeFiles/edit_cache.dir
+/home/farid/programming/cpp/codeliteProjects/first/CMakeFiles/rebuild_cache.dir

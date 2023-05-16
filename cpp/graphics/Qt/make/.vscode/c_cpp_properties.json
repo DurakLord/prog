@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compileCommands": "/usr/bin/g++",
+            "includePath": [
+                "/home/farid/programming/cpp/graphics/Qt/first/**",
+                "/usr/include/qt/QtWidgets",
+                "/usr/include/qt/QtCore",
+                "/usr/include/qt/QtGui",
+                "/usr/include/qt"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "mergeConfigurations": false,
+            "compilerPath": "/usr/bin/g++",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "${workspaceFolder}/**"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

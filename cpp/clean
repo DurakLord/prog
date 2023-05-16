@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for file in $(find /home/farid/programming/cpp -name main)
+do 
+
+rm $file
+done
